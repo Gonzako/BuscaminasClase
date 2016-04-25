@@ -1,0 +1,11 @@
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\bin\Release\Buscaminas2.exe.manifest
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\bin\Release\Buscaminas2.application
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\bin\Release\Buscaminas2.exe
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\bin\Release\Buscaminas2.pdb
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Release\BuscaMinas.Form1.resources
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Release\Buscaminas.Properties.Resources.resources
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Release\Buscaminas.csproj.GenerateResource.Cache
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Release\Buscaminas2.exe.manifest
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Release\Buscaminas2.application
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Release\Buscaminas2.exe
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Release\Buscaminas2.pdb

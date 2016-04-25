@@ -1,0 +1,11 @@
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\bin\Debug\Buscaminas2.exe
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\bin\Debug\Buscaminas2.pdb
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\Buscaminas.Properties.Resources.resources
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\Buscaminas2.exe
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\Buscaminas2.pdb
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\BuscaMinas.Form1.resources
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\Buscaminas.exe
+C:\Users\garcial\Documents\Visual Studio 2010\Projects\Buscaminas2\Buscaminas2\obj\x86\Debug\Buscaminas.pdb
