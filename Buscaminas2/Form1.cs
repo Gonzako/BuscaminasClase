@@ -25,7 +25,7 @@ namespace BuscaMinas
         private void ReiniciaJuego() {
             visitadas = new bool[N, M];  // De las filas y columnas 1 a la N-1
             campoBotones = new Button[N, M];  // De las filas y columnas 1 a la N-1
-            m = new int[N, M]; 
+            m = new int[N, M]; // 9: mina; 0-8:minas alrededor
             for (int i = 0; i < N; i++)
                 for (int j = 0; j < M; j++) {
                     visitadas[i, j] = false;
@@ -118,75 +118,29 @@ namespace BuscaMinas
             return true;
         }
 
-        private void cuentaMinas()
-        {
-            for (byte x = 1; x < N-1; x++)
-            {
-                for (byte y = 1; y < M-1; y++)
-                {
-                    if (m[x, y] == 9)
-                    {
-                        for (int i = -1; i <= 1; i++)
-                        {
-                            for (int j = -1; j<= 1; j++)
-                            {
-                                if (m[x-i, y-j] != 9)
-                                {
-                                    m[x - i, y - j]++;
-                                }
-                            }
-                        }
-                    }
-                }
-                
-            }
+        private void cuentaMinas() {
+            ////
+            ////
+            //// Código a Completar
+            ////
+            ////
         }  
 
         private void ubicaMinas()
         {
-            int x;
-            int y;
-            for (byte i = 0; i < (((N - 2) * (M - 2) / 100) * Porcentaje); i++)
-            {
-                x = rand.Next(1, N - 1);
-                y = rand.Next(1, M - 1);
-                if (m[x, y] != 9)
-                {
-                    m[x, y] = 9;
-                } else
-                {
-                    i--;
-                }
-            }
-            //Coloca una mina aleatoriamente en el campo, si ya está ocupada por otra mina, repite el proceso.
+            ////
+            ////
+            //// Código a Completar
+            ////
+            ////
         }
 
         private void escampa(int x, int y) {
-
-                visitadas[x, y] = true;
-                campoBotones[x, y].Enabled = false;
-
-                for (int i = -1; i <= 1; i++)
-                {
-                    for (int j = -1; j <= 1; j++)
-                    {
-                        if (x - i < N - 1 && y - j < M - 1 && x - i > 0 && y - j > 0)
-                        {
-                            if (m[x - i, y - j] != 0)
-                            {
-                                campoBotones[x - i, y - j].Text = "" + m[x - i, y - j];
-                                visitadas[x - i, y - j] = true;
-                                campoBotones[x - i, y - j].Enabled = false;
-                            }
-                            else
-                            {
-                                escampa(x - i, y - j);
-                            }
-                        }
-                    }
-                }
-            
-
+            ////
+            ////
+            //// Código recursivo a Completar
+            ////
+            ////
         }
 
         private void button1_Click(object sender, EventArgs e) {
