@@ -29,3 +29,15 @@ C:\Users\garcial\Google Drive UJI\Docencia\DocCurso15_16\VJ1208 Programación II
 C:\Users\garcial\Google Drive UJI\Docencia\DocCurso15_16\VJ1208 Programación II\Practicas\Practica 3\Buscaminas Incompleto\Buscaminas2\Buscaminas2\bin\Debug\Buscaminas2.pdb
 C:\Users\garcial\Google Drive UJI\Docencia\DocCurso15_16\VJ1208 Programación II\Practicas\Practica 3\Buscaminas Incompleto\Buscaminas2\Buscaminas2\obj\x86\Debug\Buscaminas2.exe.manifest
 C:\Users\garcial\Google Drive UJI\Docencia\DocCurso15_16\VJ1208 Programación II\Practicas\Practica 3\Buscaminas Incompleto\Buscaminas2\Buscaminas2\obj\x86\Debug\Buscaminas2.application
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\obj\x86\Debug\Buscaminas2.exe
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\obj\x86\Debug\Buscaminas2.pdb
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\bin\Debug\Buscaminas2.exe.manifest
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\bin\Debug\Buscaminas2.application
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\bin\Debug\Buscaminas2.exe
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\bin\Debug\Buscaminas2.pdb
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\obj\x86\Debug\Buscaminas.csprojResolveAssemblyReference.cache
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\obj\x86\Debug\BuscaMinas.Form1.resources
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\obj\x86\Debug\Buscaminas.Properties.Resources.resources
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\obj\x86\Debug\Buscaminas.csproj.GenerateResource.Cache
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\obj\x86\Debug\Buscaminas2.exe.manifest
+C:\Users\gonza\OneDrive\Documents\GitHub\BuscaminasClase\Buscaminas2\obj\x86\Debug\Buscaminas2.application
