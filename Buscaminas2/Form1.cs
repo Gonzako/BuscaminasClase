@@ -162,7 +162,7 @@ namespace BuscaMinas
         }
 
         private void escampa(int x, int y) {
-
+                //Causa problemas, arreglar cuanto antes.
                 visitadas[x, y] = true;
                 campoBotones[x, y].Enabled = false;
 
