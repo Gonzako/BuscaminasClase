@@ -170,7 +170,7 @@ namespace BuscaMinas
                 {
                     for (int j = -1; j <= 1; j++)
                     {
-                        if (x - i < N - 1 && y - j < M - 1 && x - i > 0 && y - j > 0)
+                        if (visitadas[x - i, y - j] != true)
                         {
                             if (m[x - i, y - j] != 0)
                             {
